@@ -1,0 +1,15 @@
+@import 'ci';
+
+.company-logo {
+    max-height: 50px !important;
+}
+
+.card-hoverable:hover, .card-hoverable:hover > *{
+    border-color: $blue1;
+}
+
+.card-hoverable:hover{
+    -webkit-box-shadow: 0px 0px 5px 0px $blue1;
+    -moz-box-shadow: 0px 0px 5px 0px $blue1;
+    box-shadow: 0px 0px 5px 0px $blue1;
+}

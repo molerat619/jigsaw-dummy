@@ -1,0 +1,19 @@
+$primaryBlue: rgba(0,13,102,1);
+$secondaryBlue: rgba(8,178,180,1);
+$greenBlue: rgba(42,110,110,1);
+$otherBlue: rgba(0,146,161,1);
+$green: rgba(31,224,76,0.5);
+
+$blue1: rgba(56,166,232,1);
+$blue2: rgba(74,224,232,1);
+$blue3: rgba(107,255,250,1);
+$blue4: rgba(181,255,242,1);
+$blue5: rgba(105,255,255,1);
+$red: #ff3d4a;
+
+$theme-colors: (
+  "primary": $primaryBlue,
+  "info": $blue1,
+  "success": $green,
+  "danger": $red
+);

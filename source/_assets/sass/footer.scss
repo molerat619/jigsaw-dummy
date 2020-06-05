@@ -1,0 +1,19 @@
+@import 'ci';
+
+.left-floating-button {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 1000;
+
+    display: inline-flex;
+    align-items: center;
+
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.left-floating-button i {
+    font-size: 1.5em;
+}
