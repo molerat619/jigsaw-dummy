@@ -11,7 +11,7 @@
         "build-prod": "npm run production && ./vendor/bin/jigsaw build production"
     },
     "devDependencies": {
-        "browser-sync": "^2.26.3",
+        "browser-sync": "^2.29.3",
         "browser-sync-webpack-plugin": "^2.0.1",
         "cross-env": "^3.2.3",
         "extra-watch-webpack-plugin": "^1.0.3",
